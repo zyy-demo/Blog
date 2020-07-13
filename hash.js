@@ -1,4 +1,5 @@
 //导入bcrypt
+//后期使用bcryptjs代替
 const bcrypt = require('bcrypt');
 
 
